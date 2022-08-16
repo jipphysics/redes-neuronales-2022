@@ -2,7 +2,7 @@
 
 ## Prácticos
 
-* Los puede encontrar en formato **google colab** en la siguiente carpeta de (google drive)[https://drive.google.com/drive/folders/1tM1INCrfsZnNRmSiS-q3M6Xf0DfdLyPS?usp=sharing]
+* Los puede encontrar en formato **google colab** en la siguiente carpeta de [google drive](https://drive.google.com/drive/folders/1tM1INCrfsZnNRmSiS-q3M6Xf0DfdLyPS?usp=sharing)
 
 ## Utiles
 
