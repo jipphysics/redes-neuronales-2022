@@ -13,3 +13,5 @@
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
+
+* [Aula virtual del curso (moodle)](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=981)
