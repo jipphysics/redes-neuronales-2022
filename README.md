@@ -10,6 +10,8 @@
 
 * [Clase 2 - 2022 08 18](https://drive.google.com/file/d/1g25mx_NwYetoXllEQ8rGWXnQ0AYr1nTg/view?usp=sharing)
 
+* [Clase 3 - 2022 08 23](https://drive.google.com/file/d/1c0Pw8HPC0L0MUerluMkPRSZjRYa5Yytj/view?usp=sharing). Lamentablemente algo salió mal con el grabado de esta clase. En gran parte del video no se ve la pantalla compartida.
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
