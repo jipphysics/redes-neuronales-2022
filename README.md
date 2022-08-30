@@ -21,3 +21,7 @@
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
 
 * [Aula virtual del curso (moodle)](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=981)
+
+## Novedades
+
+* 2022 08 30: Ya está disponible el práctico 4.
