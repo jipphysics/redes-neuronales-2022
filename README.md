@@ -16,6 +16,9 @@
 
 * [Clase 5 - 2022 08 30](https://drive.google.com/file/d/1Ran9FyyAvhRvo4JUSvRqpTnHwmCMBKtk/view?usp=sharing)
 
+* [Clase 6 - parte 1 - 2022 08 01](https://drive.google.com/file/d/1XJZllTUg35rJmjKF5bmELV4RHggaRvXT/view?usp=sharing)
+* [Clase 6 - parte 2 - 2022 08 01]()
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
