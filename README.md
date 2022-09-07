@@ -16,8 +16,11 @@
 
 * [Clase 5 - 2022 08 30](https://drive.google.com/file/d/1Ran9FyyAvhRvo4JUSvRqpTnHwmCMBKtk/view?usp=sharing)
 
-* [Clase 6 - parte 1 - 2022 08 01](https://drive.google.com/file/d/1XJZllTUg35rJmjKF5bmELV4RHggaRvXT/view?usp=sharing)
-* [Clase 6 - parte 2 - 2022 08 01](https://drive.google.com/file/d/1DhUwY27rb4sY0mmviTdmRLur-3NPQj8J/view?usp=sharing)
+* [Clase 6 - parte 1 - 2022 09 01](https://drive.google.com/file/d/1XJZllTUg35rJmjKF5bmELV4RHggaRvXT/view?usp=sharing)
+* [Clase 6 - parte 2 - 2022 09 01](https://drive.google.com/file/d/1DhUwY27rb4sY0mmviTdmRLur-3NPQj8J/view?usp=sharing)
+
+* [Clase 7 - parte 1 - 2022 09 06](https://drive.google.com/file/d/1oGlLgoUu2wN0M8nQ5CZaLqC8GSB5n9Oe/view?usp=sharing)
+* [Clase 7 - parte 2 - 2022 09 06](https://drive.google.com/file/d/1s8ffNjmpdr3IuBDiBLizGRkru3qr81gd/view?usp=sharing)
 
 ## Utiles
 
