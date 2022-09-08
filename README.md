@@ -28,6 +28,8 @@
 
 * [Aula virtual del curso (moodle)](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=981)
 
+* [Grupo de whatsapp](https://chat.whatsapp.com/CSiF6asl4U4GDsZxeezsTR)
+
 ## Novedades
 
 * 2022 08 30: Ya está disponible el práctico 4.
