@@ -27,7 +27,7 @@
 
 * [Clase 9 - 2022 09 13](https://drive.google.com/file/d/1R-fdAgNwzqL7j-jJC1_l3miZw1BJtDqA/view?usp=sharing)
 
-* [Clase 10 - 2022 09 15]()
+* [Clase 10 - 2022 09 15](https://drive.google.com/file/d/1amUNRi_M4PwNlakcBH5lhzTDXWQql-7p/view?usp=sharing)
 
 ## Utiles
 
