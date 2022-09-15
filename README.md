@@ -22,12 +22,15 @@
 * [Clase 7 - parte 1 - 2022 09 06](https://drive.google.com/file/d/1oGlLgoUu2wN0M8nQ5CZaLqC8GSB5n9Oe/view?usp=sharing)
 * [Clase 7 - parte 2 - 2022 09 06](https://drive.google.com/file/d/1s8ffNjmpdr3IuBDiBLizGRkru3qr81gd/view?usp=sharing)
 
+* [Clase 8 - parte 1 - 2022 09 08](https://drive.google.com/file/d/1Vg63uWQczn0oOiI57k4MCYfE6BzMM-qS/view?usp=sharing)
+* [Clase 8 - parte 2 - 2022 09 08](https://drive.google.com/file/d/1FaXnp6NGzmukVV-jaOm6atbbcYOPCdA4/view?usp=sharing)
+
+* [Clase 9 - 2022 09 13](https://drive.google.com/file/d/1R-fdAgNwzqL7j-jJC1_l3miZw1BJtDqA/view?usp=sharing)
+
+* [Clase 10 - 2022 09 15]()
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
 
 * [Aula virtual del curso (moodle)](https://famaf.aulavirtual.unc.edu.ar/course/view.php?id=981)
-
-## Novedades
-
-* 2022 08 30: Ya está disponible el práctico 4.
