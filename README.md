@@ -33,6 +33,10 @@
 
 * [Clase 10 - 2022 09 15](https://drive.google.com/file/d/1amUNRi_M4PwNlakcBH5lhzTDXWQql-7p/view?usp=sharing)
 
+* [Clase 11 - 2022 09 20](https://drive.google.com/file/d/1lp6rvpimGbYpVrhpENm2OM63yR-Csc75/view?usp=sharing)
+
+* [Clase 12 - 2022 09 22](https://drive.google.com/file/d/1b15XdKDGzXyVaYbottJPORgH0pl5B4OO/view?usp=sharing)
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
