@@ -8,6 +8,8 @@
 
 * [Trabajo práctico 1](https://drive.google.com/file/d/1ss8w_9uX4pG740UC2Nl2Sw_uMIpa4crJ/view?usp=sharing)
 
+* [Trabajo práctico 2](https://drive.google.com/file/d/1PKJ_2Vyik1Dit22T94W0P6JBYcT1stzl/view?usp=sharing)
+
 ## Videos
 
 * [Clase 1 - 2022 08 16](https://drive.google.com/file/d/1OQ0x0bFMoas2dCZ18awXYBj5YafDxG8Z/view?usp=sharing)
