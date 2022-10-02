@@ -16,7 +16,7 @@
     
     6. [Caos I: el mapa logístico](https://colab.research.google.com/drive/1pSBcaIVcSvu0q4zgNsFJfys_a002-5AY?usp=sharing)
     
-    7. [El modelo de Izhikevich](https://colab.research.google.com/drive/177sNn0rzc1QC0Q4aD_7MN-MSdC0kkZ96?usp=sharing)
+    7. [El modelo de Izhikevich](https://colab.research.google.com/drive/1QI8e0Ngfs5NiZs9N6IHwUlsXcY7o_Fwb?usp=sharing)
 
 ## Trabajos prácticos
 
