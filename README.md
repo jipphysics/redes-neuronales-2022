@@ -4,19 +4,19 @@
 
 * Los puede encontrar en formato **google colab** en la siguiente carpeta de [google drive](https://drive.google.com/drive/folders/1tM1INCrfsZnNRmSiS-q3M6Xf0DfdLyPS?usp=sharing).
 
-    1. Familiarizandose con Google Colab.
+    1. [Familiarizandose con Google Colab](https://colab.research.google.com/drive/1-izp70dIM2mJeEoPBNljUNGJ8L93IzsY?usp=sharing)
     
-    2. Familiarizandose con Numpy.
+    2. [Familiarizandose con Numpy](https://colab.research.google.com/drive/1_d2GfVeqc-AzzbosOTDzVy62sJ2dzCNG?usp=sharing)
     
-    3. Algebra lineal con SciPy.
+    3. [Algebra lineal con SciPy](https://colab.research.google.com/drive/1gb85bhfY0BfXF6p0vquy1ZxpIhzl6DbF?usp=sharing)
     
-    4. Integración numérica de ODEs.
+    4. [Integración numérica de ODEs](https://colab.research.google.com/drive/1oqTxQ8qnqQzmInF3CYKGF47NoxGXoaa-?usp=sharing)
     
-    5. El modelo Integrate and Fire.
+    5. [El modelo Integrate and Fire](https://colab.research.google.com/drive/1FxEzSzLBw2aqURnbrulNcV17mlERJDUl?usp=sharing)
     
-    6. Caos I: el mapa logístico.
+    6. [Caos I: el mapa logístico](https://colab.research.google.com/drive/1pSBcaIVcSvu0q4zgNsFJfys_a002-5AY?usp=sharing)
     
-    7. El modelo de Izhikevich.
+    7. [El modelo de Izhikevich](https://colab.research.google.com/drive/177sNn0rzc1QC0Q4aD_7MN-MSdC0kkZ96?usp=sharing)
 
 ## Trabajos prácticos
 
