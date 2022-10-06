@@ -58,6 +58,8 @@
 
 * [Clase 14 - 2022 10 04](https://drive.google.com/file/d/19iARK39hEgXlZk_4KTw5KLLYpGXNMHG1/view?usp=sharing)
 
+* [Clase 15 - 2022 10 06](https://drive.google.com/file/d/1wY7xGgWZnuXRG4FOM_1hzRvh6Onf3snh/view?usp=sharing)
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
