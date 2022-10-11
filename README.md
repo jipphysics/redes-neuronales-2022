@@ -60,6 +60,8 @@
 
 * [Clase 15 - 2022 10 06](https://drive.google.com/file/d/1wY7xGgWZnuXRG4FOM_1hzRvh6Onf3snh/view?usp=sharing)
 
+* [Clase 16 - 2022 10 11](clase 16 (2022-10-11 17:15 GMT-3))
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
