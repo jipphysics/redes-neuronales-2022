@@ -17,6 +17,10 @@
     6. [Caos I: el mapa logístico](https://colab.research.google.com/drive/1pSBcaIVcSvu0q4zgNsFJfys_a002-5AY?usp=sharing)
     
     7. [El modelo de Izhikevich](https://colab.research.google.com/drive/1QI8e0Ngfs5NiZs9N6IHwUlsXcY7o_Fwb?usp=sharing)
+    
+    8. [Caos II: la ecuación de Lorenz](https://drive.google.com/file/d/1ajMnTTjor0QRHsPkADImPwjijmKwTF-7/view?usp=sharing)
+    
+    9. [El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1sF2Jny6DG-THzhZ2KVdUZkbT37xJKtco?usp=sharing)
 
 ## Trabajos prácticos
 
