@@ -64,7 +64,9 @@
 
 * [Clase 15 - 2022 10 06](https://drive.google.com/file/d/1wY7xGgWZnuXRG4FOM_1hzRvh6Onf3snh/view?usp=sharing)
 
-* [Clase 16 - 2022 10 11](clase 16 (2022-10-11 17:15 GMT-3))
+* [Clase 16 - 2022 10 11](https://drive.google.com/file/d/1S1dq6RsF_Fwb7pWJxaOmlRX34i__-sQ_/view?usp=sharing)
+
+* [Clase 17 - 2022 10 13](https://drive.google.com/file/d/1MPCDlakM6uXnPZsM2r9IYagTa3lcUcc2/view?usp=sharing)
 
 ## Utiles
 
