@@ -21,6 +21,8 @@
     8. [Caos II: la ecuación de Lorenz](https://drive.google.com/file/d/1ajMnTTjor0QRHsPkADImPwjijmKwTF-7/view?usp=sharing)
     
     9. [El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1sF2Jny6DG-THzhZ2KVdUZkbT37xJKtco?usp=sharing)
+    
+    10. [Perceptrón simple](https://colab.research.google.com/drive/1C_rccVWutf3yFmnj3vrSN5Li7joXiamv?usp=sharing)
 
 ## Trabajos prácticos
 
