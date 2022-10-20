@@ -70,7 +70,7 @@
 
 * [Clase 17 - 2022 10 13](https://drive.google.com/file/d/1MPCDlakM6uXnPZsM2r9IYagTa3lcUcc2/view?usp=sharing)
 
-* [Clase 17 - 2022 10 18](https://drive.google.com/file/d/1448LFASmS0Kx4rYAM9gpv77YdKGHPnOE/view?usp=sharing)
+* [Clase 18 - 2022 10 18](https://drive.google.com/file/d/1448LFASmS0Kx4rYAM9gpv77YdKGHPnOE/view?usp=sharing)
 
 ## Utiles
 
