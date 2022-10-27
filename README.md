@@ -76,6 +76,8 @@
 
 * [Clase 20 - 2022 10 25](https://drive.google.com/file/d/1e677IKNtwNlMXniFD9Hy-ra5nDwM9UYW/view?usp=sharing)
 
+* [Clase 21 - 2022 10 27](https://drive.google.com/file/d/1NJs1gi0XC560DVheOzfuk0WMuQFv9V2S/view?usp=sharing)
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
