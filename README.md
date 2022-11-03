@@ -38,6 +38,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 * [Trabajo práctico 2: Modelo de Izhikevich](https://drive.google.com/file/d/1PKJ_2Vyik1Dit22T94W0P6JBYcT1stzl/view?usp=sharing) (02-10-2022). Fecha de entrega 25-10-2022 (3 semanas).
 
+* [Trabajo práctico 3: Autoencoder sobre FashionMNIST](https://drive.google.com/file/d/1vJhBfhS9bg6O-V98VbNDumQ2Hohj15yl/view?usp=sharing) (03-11-2022). Fecha de entrega 28-11-2022 (3 semanas).
+
 ## Videos
 
 * [Clase 1 - 2022 08 16](https://drive.google.com/file/d/1OQ0x0bFMoas2dCZ18awXYBj5YafDxG8Z/view?usp=sharing)
@@ -87,6 +89,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 * [Clase 21 - 2022 10 27](https://drive.google.com/file/d/1NJs1gi0XC560DVheOzfuk0WMuQFv9V2S/view?usp=sharing)
 
 * [Clase 22 - 2022 11 01](https://drive.google.com/file/d/1kThOw_u1mdgxYYIgFKzfbw_k5uSJVst3/view?usp=share_link)
+
+* [Clase 23 - 2022 11 03](https://drive.google.com/file/d/1XTx4_XsLKH6gN7n62T-ChjRe0Vl91yXs/view?usp=sharing)
 
 ## Utiles
 
