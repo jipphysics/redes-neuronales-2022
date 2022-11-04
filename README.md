@@ -28,6 +28,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 12. [Cuadrados mínimos con PyTorch](https://colab.research.google.com/drive/1HAxRFJIyVrZjlIowrWrpXP4_gIJtuIkk?usp=share_link)
 
+13. [Clasificando FashionMNIST con PyTorch](https://colab.research.google.com/drive/1lxND3brSDT5daNs0bwutcuoKAGwVRNiV?usp=share_link)
+
 ## Tutoriales
 
 * [Pytorch - Tutorial 1: tensores](https://colab.research.google.com/drive/1Gl7rKQqYGN7cmLWuQDcuE_qU6r7oijmM?usp=share_link)
