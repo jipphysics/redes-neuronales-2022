@@ -94,6 +94,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 * [Clase 23 - 2022 11 03](https://drive.google.com/file/d/1XTx4_XsLKH6gN7n62T-ChjRe0Vl91yXs/view?usp=sharing)
 
+* [Clase 24 - 2022 11 08](https://drive.google.com/file/d/1Hbf8VPRK1Q1_Dekq0Mo7IugoochOufGw/view?usp=share_link)
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
