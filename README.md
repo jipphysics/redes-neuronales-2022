@@ -96,6 +96,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 * [Clase 24 - 2022 11 08](https://drive.google.com/file/d/1Hbf8VPRK1Q1_Dekq0Mo7IugoochOufGw/view?usp=share_link)
 
+* [Clase 24 teórica Paula Nieto - 2022 11 08](https://drive.google.com/file/d/1OIslSbvP7TcmuEwfqjR20NWRPgWXPyq3/view?usp=share_link)
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
