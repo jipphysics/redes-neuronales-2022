@@ -30,6 +30,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 13. [Clasificando FashionMNIST con PyTorch](https://colab.research.google.com/drive/1lxND3brSDT5daNs0bwutcuoKAGwVRNiV?usp=share_link)
 
+14. [Autoencoder FashionMNIST con PyTorch](https://colab.research.google.com/drive/1tKF02L9OCjgeqYiA53lunUxpBO4nW-CE?usp=share_link)
+
 ## Tutoriales
 
 * [Pytorch - Tutorial 1: tensores](https://colab.research.google.com/drive/1Gl7rKQqYGN7cmLWuQDcuE_qU6r7oijmM?usp=share_link)
@@ -99,6 +101,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 * [Clase 24 teórica Paula Nieto - 2022 11 08](https://drive.google.com/file/d/1OIslSbvP7TcmuEwfqjR20NWRPgWXPyq3/view?usp=share_link)
 
 * [Clase 25 - 2022 11 10](https://drive.google.com/file/d/1my7b9eI5N-67VsnTjSqWtqBqDklMilOg/view?usp=sharing)
+
+* [Clase 26 - 2022 11 15](https://drive.google.com/file/d/14u9sFGUnHyaYeOWAamcQ-IjaVBUw-tex/view?usp=share_link)
 
 ## Utiles
 
