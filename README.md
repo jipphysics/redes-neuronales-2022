@@ -36,6 +36,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 * [Pytorch - Tutorial 1: tensores](https://colab.research.google.com/drive/1Gl7rKQqYGN7cmLWuQDcuE_qU6r7oijmM?usp=share_link)
 
+* [Pytorch - Tutorial 2: Clasificador convolucional](https://colab.research.google.com/drive/1MPLfAdrtY08GGjMxe1Jq0ZaCz3RIxzK6?usp=share_link)
+
 ## Trabajos prácticos
 
 * [Trabajo práctico 1: Integrate and Fire](https://drive.google.com/file/d/1ss8w_9uX4pG740UC2Nl2Sw_uMIpa4crJ/view?usp=sharing) (20-09-2022). Fecha de entrega 11-10-2022 (3 semanas).
@@ -103,6 +105,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 * [Clase 25 - 2022 11 10](https://drive.google.com/file/d/1my7b9eI5N-67VsnTjSqWtqBqDklMilOg/view?usp=sharing)
 
 * [Clase 26 - 2022 11 15](https://drive.google.com/file/d/14u9sFGUnHyaYeOWAamcQ-IjaVBUw-tex/view?usp=share_link)
+
+* [Clase 27 - 2022 11 17](https://drive.google.com/file/d/1PIOhJnkUzzDG0zu4gI21oNs1TPSTyPLf/view?usp=share_link)
 
 ## Utiles
 
