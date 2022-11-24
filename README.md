@@ -32,6 +32,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 14. [Autoencoder FashionMNIST con PyTorch](https://colab.research.google.com/drive/1tKF02L9OCjgeqYiA53lunUxpBO4nW-CE?usp=share_link)
 
+15. [Modelo de Ising en Julia](https://colab.research.google.com/drive/1QzlPFoa67qPRfNEhyP3I4PH5DPCtXSby?usp=share_link)
+
 ## Tutoriales
 
 * [Pytorch - Tutorial 1: tensores](https://colab.research.google.com/drive/1Gl7rKQqYGN7cmLWuQDcuE_qU6r7oijmM?usp=share_link)
@@ -113,6 +115,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 * [Clase 27 - 2022 11 17](https://drive.google.com/file/d/1PIOhJnkUzzDG0zu4gI21oNs1TPSTyPLf/view?usp=share_link)
 
 * [Clase 28 - 2022 11 22](https://drive.google.com/file/d/14JxcrEgk0ut_AvN0JYhg7TKTYEf83CAp/view?usp=share_link)
+
+* [Clase 29 - 2022 11 24](https://drive.google.com/file/d/1itduYvb_SFt_9UmjsV5PJG6DZV0NmlZt/view?usp=sharing)
 
 ## Utiles
 
