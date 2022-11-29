@@ -52,6 +52,16 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 * [Trabajo práctico 3: Autoencoder sobre FashionMNIST](https://drive.google.com/file/d/1vJhBfhS9bg6O-V98VbNDumQ2Hohj15yl/view?usp=sharing) (03-11-2022). Fecha de entrega 14-12-2022 (>3 semanas).
 
+## Trabajos finales integradores:
+
+Las fechas de los examenes finales son: 7-Dic, 22-Dic, 10-Feb, 28-Feb. Por favor, entreguen los trabajos con aprox. una semana de antelación a la fecha de examen en la que se anotaron.
+
+* [Trabajo Final 3:   ]().
+
+* [Trabajo Final 3:   ]().
+
+* [Trabajo Final 3:   ]().
+
 ## Videos
 
 * [Clase 1 - 2022 08 16](https://drive.google.com/file/d/1OQ0x0bFMoas2dCZ18awXYBj5YafDxG8Z/view?usp=sharing)
