@@ -40,6 +40,8 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 * [Pytorch - Tutorial 2: Clasificador convolucional](https://colab.research.google.com/drive/1MPLfAdrtY08GGjMxe1Jq0ZaCz3RIxzK6?usp=share_link)
 
+* [Pytorch - Tutorial 3: Entrenamiento validación y prueba](https://colab.research.google.com/drive/1eGiXs_PGgwU51IKSZiwwEbwjSkHeryUU?usp=share_link)
+
 ## Teóricos
 
 * [Teórico 1: Convolución](https://drive.google.com/file/d/1Bx24LXijGQnGCjvB_zqBsHKyXt6JRi7Y/view?usp=share_link)
