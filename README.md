@@ -50,7 +50,7 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 * [Trabajo práctico 2: Modelo de Izhikevich](https://drive.google.com/file/d/1PKJ_2Vyik1Dit22T94W0P6JBYcT1stzl/view?usp=sharing) (02-10-2022). Fecha de entrega 25-10-2022 (3 semanas).
 
-* [Trabajo práctico 3: Autoencoder sobre FashionMNIST](https://drive.google.com/file/d/1vJhBfhS9bg6O-V98VbNDumQ2Hohj15yl/view?usp=sharing) (03-11-2022). Fecha de entrega 28-11-2022 (3 semanas).
+* [Trabajo práctico 3: Autoencoder sobre FashionMNIST](https://drive.google.com/file/d/1vJhBfhS9bg6O-V98VbNDumQ2Hohj15yl/view?usp=sharing) (03-11-2022). Fecha de entrega 14-12-2022 (3 semanas).
 
 ## Videos
 
