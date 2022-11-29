@@ -56,11 +56,11 @@ Los puede encontrar en formato **google colab** en la siguiente carpeta de [goog
 
 Las fechas de los examenes finales son: 7-Dic, 22-Dic, 10-Feb, 28-Feb. Por favor, entreguen los trabajos con aprox. una semana de antelación a la fecha de examen en la que se anotaron.
 
-* [Trabajo Final 3:   ]().
+* [Trabajo Final 1: Capacidad de almacenamiento del modelo de Hopfield](https://drive.google.com/file/d/10wQC5hbjGkxXa5W1-zLtw8UlegoMOvgl/view?usp=share_link).
 
-* [Trabajo Final 3:   ]().
+* [Trabajo Final 2: Autoencoder convolucional profundo para procesar imágenes](https://drive.google.com/file/d/11Pl9TmGOo_Eyem8yV4EZLEcBqqwO51pP/view?usp=share_link).
 
-* [Trabajo Final 3:   ]().
+* [Trabajo Final 3: Red neuronal profunda y convolucional para clasificar imágenes](https://drive.google.com/file/d/16GVmKGL0i4294ldv5kws7_7nkSLEPr8j/view?usp=share_link).
 
 ## Videos
 
