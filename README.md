@@ -130,6 +130,9 @@ Las fechas de los examenes finales son: 7-Dic, 22-Dic, 10-Feb, 28-Feb. Por favor
 
 * [Clase 29 - 2022 11 24](https://drive.google.com/file/d/1itduYvb_SFt_9UmjsV5PJG6DZV0NmlZt/view?usp=sharing)
 
+* [Clase 30 - 2022 11 29](https://drive.google.com/file/d/1IyZbdAnR9jN5vtk9CTMot8KEWw1nBNi-/view?usp=sharing)
+* [Clase 30 teórica - Juan - 2022 11 29](https://drive.google.com/file/d/1Sp6rAFw_vsEq3pRTskpRGDOSPQ5a_0i0/view?usp=share_link)
+
 ## Utiles
 
 * [https://www.famaf.unc.edu.ar/~ftamarit/redes2022/](https://www.famaf.unc.edu.ar/~ftamarit/redes2022/)
